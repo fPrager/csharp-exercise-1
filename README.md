@@ -12,5 +12,7 @@ ___
 
 ## Setup
 
-To run the app, just use Visaal Codewith the C# Extension and run in root:
-> `dotnet run`
+To run the app, just use Visaal Code with the C# Extension and run in root:
+> `dotnet run
+
+see: [.Net Core with Visual Code](https://code.visualstudio.com/docs/other/dotnet)
